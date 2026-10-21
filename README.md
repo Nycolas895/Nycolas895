@@ -1,6 +1,6 @@
 <picture>
-  <source media="(max-width: 600px)" srcset="./assets/header-mobile.svg?v=3" />
-  <img src="./assets/header-desktop.svg?v=3" width="100%" alt="Nycolas Burger — Desenvolvedor web" />
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/Nycolas895/Nycolas895/31b859cc3a0fe442fc1acb83aa409348f1f13e10/assets/header-mobile.svg" />
+  <img src="https://raw.githubusercontent.com/Nycolas895/Nycolas895/2672909aab8ffd49e002d775bf4e4337f63f4a29/assets/header-desktop.svg" width="100%" alt="Nycolas Burger — Desenvolvedor web" />
 </picture>
 
 ### Do conceito à experiência.
