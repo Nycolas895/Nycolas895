@@ -1,41 +1,30 @@
-<div align="center">
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/header-mobile.svg" />
+  <img src="./assets/header.svg" width="100%" alt="Nycolas Burger — Desenvolvedor web" />
+</picture>
 
-![Nycolas Burger — Desenvolvimento web](./assets/header.svg)
+### Sites com identidade. Interfaces que conectam.
 
-<br>
+Sou **Nycolas Burger**, desenvolvedor web. Crio sites e aplicações com **React, Next.js, TypeScript e Node.js**, unindo visual e funcionalidade.
 
-<a href="https://nycolasdev.com.br"><img src="https://img.shields.io/badge/CONHEÇA_MEU_PORTFÓLIO-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Conheça meu portfólio" /></a>
-<a href="https://nycolasdev.com.br"><img src="https://img.shields.io/badge/VAMOS_CONVERSAR-06B6D4?style=for-the-badge&logo=chatbot&logoColor=white" alt="Contato pelo meu portfólio" /></a>
+<a href="https://nycolasdev.com.br"><img src="https://img.shields.io/badge/VER_PORTF%C3%93LIO_%E2%86%97-c6f36b?style=for-the-badge&labelColor=05060a&color=c6f36b" alt="Ver portfólio" /></a>
 
-<br><br>
+### Tecnologias
 
-### ✦ Do primeiro pixel à última linha de código.
+<img src="https://skillicons.dev/icons?i=react&theme=dark" width="40" height="40" alt="React" title="React" />
+<img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="40" height="40" alt="Next.js" title="Next.js" />
+<img src="https://skillicons.dev/icons?i=ts&theme=dark" width="40" height="40" alt="TypeScript" title="TypeScript" />
+<img src="https://skillicons.dev/icons?i=js&theme=dark" width="40" height="40" alt="JavaScript" title="JavaScript" />
+<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="40" height="40" alt="Node.js" title="Node.js" />
+<img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="40" height="40" alt="Tailwind CSS" title="Tailwind CSS" />
+<img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="40" height="40" alt="PostgreSQL" title="PostgreSQL" />
+<img src="https://skillicons.dev/icons?i=supabase&theme=dark" width="40" height="40" alt="Supabase" title="Supabase" />
+<img src="https://skillicons.dev/icons?i=git&theme=dark" width="40" height="40" alt="Git" title="Git" />
 
-Desenvolvo **sites, interfaces e aplicações web** com atenção ao visual e à experiência de quem usa.  
-Por aqui, compartilho código e minha evolução no desenvolvimento.
-
-<br>
-
-## ⚡ Minha stack
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs&theme=dark" alt="React, Next.js, TypeScript, JavaScript e Node.js" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=tailwind,html,css,postgres,supabase,git&theme=dark" alt="Tailwind CSS, HTML, CSS, PostgreSQL, Supabase e Git" />
-
-<br><br>
+**Front-end** · React, Next.js, TypeScript e Tailwind CSS  
+**Back-end** · Node.js, PostgreSQL e Supabase
 
 ---
 
-### 🚀 Quer ver o que estou construindo?
-
-Meus trabalhos e canais de contato estão no meu portfólio.
-
-### [nycolasdev.com.br ↗](https://nycolasdev.com.br)
-
-<br>
-
-<sub>Nycolas Burger · Desenvolvimento web</sub>
-
-</div>
+**Tem uma ideia em mente?**  
+Veja meus trabalhos e entre em contato pelo **[nycolasdev.com.br ↗](https://nycolasdev.com.br)**.
