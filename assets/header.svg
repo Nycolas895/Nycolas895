@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-label="Nycolas Burger — Desenvolvimento web">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#080d20"/><stop offset="1" stop-color="#191038"/></linearGradient><linearGradient id="neon"><stop stop-color="#22d3ee"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#f472b6"/></linearGradient><pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M44 0H0V44" fill="none" stroke="#a78bfa" stroke-opacity=".09"/></pattern></defs>
+<rect width="1200" height="420" rx="24" fill="url(#bg)"/><rect width="1200" height="420" rx="24" fill="url(#grid)"/>
+<circle cx="1060" cy="100" r="160" fill="#7c3aed" opacity=".13"><animate attributeName="r" values="160;190;160" dur="8s" repeatCount="indefinite"/></circle>
+<circle cx="950" cy="340" r="140" fill="#06b6d4" opacity=".08"><animate attributeName="cy" values="340;280;340" dur="7s" repeatCount="indefinite"/></circle>
+<rect x="52" y="48" width="184" height="30" rx="15" fill="#22d3ee" fill-opacity=".1" stroke="#22d3ee" stroke-opacity=".4"/><circle cx="70" cy="63" r="4" fill="#22d3ee"><animate attributeName="opacity" values="1;.25;1" dur="2s" repeatCount="indefinite"/></circle><text x="84" y="68" font-family="monospace" font-size="12" letter-spacing="2" fill="#67e8f9">NYCOLAS.DEV</text>
+<text x="52" y="150" font-family="Arial,sans-serif" font-size="20" fill="#c4b5fd">OLÁ, EU SOU O</text>
+<text x="48" y="223" font-family="Arial,sans-serif" font-weight="bold" font-size="76" letter-spacing="-3" fill="url(#neon)">Nycolas Burger<tspan fill="#22d3ee">_ <animate attributeName="opacity" values="1;0;1" dur="1.4s" repeatCount="indefinite"/></tspan></text>
+<text x="52" y="277" font-family="Arial,sans-serif" font-size="25" fill="#e2e8f0">Interfaces com personalidade. Código que conecta.</text>
+<text x="52" y="338" font-family="monospace" font-size="16" letter-spacing="1" fill="#94a3b8">REACT / NEXT.JS / TYPESCRIPT / NODE.JS</text>
+<g transform="translate(930 160)" fill="none" stroke="url(#neon)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"><path d="m20 0-38 40 38 40m90-80 38 40-38 40m-35-100-25 120"/><animateTransform attributeName="transform" type="translate" values="930 160;930 148;930 160" dur="5s" repeatCount="indefinite"/></g>
+<rect x="52" y="387" width="1096" height="3" rx="2" fill="url(#neon)"/><circle cy="388" r="5" fill="#fff"><animate attributeName="cx" values="52;1148;52" dur="9s" repeatCount="indefinite"/></circle>
+</svg>
