@@ -1,6 +1,6 @@
 <picture>
-  <source media="(max-width: 600px)" srcset="./assets/header-mobile.svg" />
-  <img src="./assets/header-desktop.svg" width="100%" alt="Nycolas Burger — Desenvolvedor web" />
+  <source media="(max-width: 600px)" srcset="./assets/header-mobile.svg?v=3" />
+  <img src="./assets/header-desktop.svg?v=3" width="100%" alt="Nycolas Burger — Desenvolvedor web" />
 </picture>
 
 ### Do conceito à experiência.
