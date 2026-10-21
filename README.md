@@ -1,25 +1,41 @@
-# Olá, eu sou o Nycolas Burger 👋
+<div align="center">
 
-### Desenvolvimento web · Interfaces · APIs
+![Nycolas Burger — Desenvolvimento web](./assets/header.svg)
 
-Desenvolvo aplicações web com **React, Next.js, TypeScript e Node.js**, conectando interfaces e back-end para transformar ideias em projetos.
+<br>
 
-**[Conheça meu portfólio →](https://nycolasdev.com.br)**
+<a href="https://nycolasdev.com.br"><img src="https://img.shields.io/badge/CONHEÇA_MEU_PORTFÓLIO-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Conheça meu portfólio" /></a>
+<a href="https://nycolasdev.com.br"><img src="https://img.shields.io/badge/VAMOS_CONVERSAR-06B6D4?style=for-the-badge&logo=chatbot&logoColor=white" alt="Contato pelo meu portfólio" /></a>
 
-## Tecnologias nos meus projetos
+<br><br>
 
-| Front-end | Back-end e dados | Ferramentas |
-| --- | --- | --- |
-| React · Next.js · TypeScript | Node.js · Fastify | Git · GitHub · Vite |
-| Tailwind CSS · HTML · CSS | PostgreSQL · Knex · Supabase | Vitest · ESLint |
+### ✦ Do primeiro pixel à última linha de código.
 
-## Projetos em destaque
+Desenvolvo **sites, interfaces e aplicações web** com atenção ao visual e à experiência de quem usa.  
+Por aqui, compartilho código e minha evolução no desenvolvimento.
 
-| Projeto | Tecnologias | Repositório |
-| --- | --- | --- |
-| **Shalom Motors** — aplicação web com React | React, TypeScript, Tailwind CSS, Vite e Supabase | [Ver código](https://github.com/Nycolas895/shalom) |
-| **API REST com Node.js** — projeto de back-end | Node.js, TypeScript, Fastify, Knex e Vitest | [Ver código](https://github.com/Nycolas895/02-API-REST-NODEJS) |
+<br>
 
-## Vamos conversar?
+## ⚡ Minha stack
 
-Veja meus trabalhos e canais de contato em **[nycolasdev.com.br](https://nycolasdev.com.br)**.
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs&theme=dark" alt="React, Next.js, TypeScript, JavaScript e Node.js" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=tailwind,html,css,postgres,supabase,git&theme=dark" alt="Tailwind CSS, HTML, CSS, PostgreSQL, Supabase e Git" />
+
+<br><br>
+
+---
+
+### 🚀 Quer ver o que estou construindo?
+
+Meus trabalhos e canais de contato estão no meu portfólio.
+
+### [nycolasdev.com.br ↗](https://nycolasdev.com.br)
+
+<br>
+
+<sub>Nycolas Burger · Desenvolvimento web</sub>
+
+</div>
