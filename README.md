@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá, eu sou o Nycolas Burger 👋
 
-<!--
-**Nycolas895/Nycolas895** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Desenvolvimento web · Interfaces · APIs
 
-Here are some ideas to get you started:
+Desenvolvo aplicações web com **React, Next.js, TypeScript e Node.js**, conectando interfaces e back-end para transformar ideias em projetos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[Conheça meu portfólio →](https://nycolasdev.com.br)**
+
+## Tecnologias nos meus projetos
+
+| Front-end | Back-end e dados | Ferramentas |
+| --- | --- | --- |
+| React · Next.js · TypeScript | Node.js · Fastify | Git · GitHub · Vite |
+| Tailwind CSS · HTML · CSS | PostgreSQL · Knex · Supabase | Vitest · ESLint |
+
+## Projetos em destaque
+
+| Projeto | Tecnologias | Repositório |
+| --- | --- | --- |
+| **Shalom Motors** — aplicação web com React | React, TypeScript, Tailwind CSS, Vite e Supabase | [Ver código](https://github.com/Nycolas895/shalom) |
+| **API REST com Node.js** — projeto de back-end | Node.js, TypeScript, Fastify, Knex e Vitest | [Ver código](https://github.com/Nycolas895/02-API-REST-NODEJS) |
+
+## Vamos conversar?
+
+Veja meus trabalhos e canais de contato em **[nycolasdev.com.br](https://nycolasdev.com.br)**.
